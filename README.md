@@ -37,4 +37,4 @@ AtCoderの提出結果ページで、以下の条件を満たす場合にPietの
 - https://github.com/dnek/atcoder-piet-image-converter/raw/main/atcoder-piet-image-converter.user.js
 
 ## 関連
-- AtCoderで改行をLFにして提出するUserScript https://github.com/dnek/atcoder-lf-submit
+- AtCoderで改行をLFにして提出し、コード長も表示するUserScript https://github.com/dnek/atcoder-lf-submit
